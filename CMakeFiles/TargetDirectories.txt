@@ -1,0 +1,4 @@
+/home/lipschitz/Documents/Code/C_Code/TYCam/build/CMakeFiles/rebuild_cache.dir
+/home/lipschitz/Documents/Code/C_Code/TYCam/build/CMakeFiles/edit_cache.dir
+/home/lipschitz/Documents/Code/C_Code/TYCam/build/CMakeFiles/sample_common.dir
+/home/lipschitz/Documents/Code/C_Code/TYCam/build/CMakeFiles/TYCam.dir
